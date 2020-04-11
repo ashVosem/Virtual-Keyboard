@@ -1,4 +1,6 @@
 # Virtual-Keyboard
+
+
 ## КОММИТ ПОСЛЕ ДЕДЛАЙНА ЭТО ИСПРАВЛЕННАЯ ПОДСКАЗКА К ИЗМЕНЕНИЮ ЯЗЫКА
 * задание - https://github.com/rolling-scopes-school/tasks/blob/master/tasks/codejam-virtual-keyboard.md
 * демо - https://ashvosem.github.io/virtual-keyboard/src/
@@ -17,5 +19,6 @@
   * предупреждения eslint-config-airbnb-base + при первой загрузке страницы иногда появляется ошибка, но при обновлении страницы исчезает: -15
 * mark calculation: 
    20 + 10 + 15 + 15 + 10(при капсе и смене языка не выделяется Shift) + 5(так как сильных фишек не юзал) + 10 + 10 -15(поздно поставил      еслинт и не было времени фиксать варнинги, но на работу не влияет) = 80
+
 
 
